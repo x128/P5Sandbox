@@ -13,6 +13,26 @@
 		03DA2CE51F1A7BCD009AC7B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 03DA2CE31F1A7BCD009AC7B1 /* Main.storyboard */; };
 		03DA2CF01F1A7BCD009AC7B1 /* P5SandboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2CEF1F1A7BCD009AC7B1 /* P5SandboxTests.swift */; };
 		03DA2CFB1F1A7BCD009AC7B1 /* P5SandboxUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2CFA1F1A7BCD009AC7B1 /* P5SandboxUITests.swift */; };
+		03DA2D591F1A81AE009AC7B1 /* html in Resources */ = {isa = PBXBuildFile; fileRef = 03DA2D581F1A81AE009AC7B1 /* html */; };
+		03DA2D6F1F1A8285009AC7B1 /* DemoServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D5C1F1A8285009AC7B1 /* DemoServer.swift */; };
+		03DA2D701F1A8285009AC7B1 /* Errno.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D5D1F1A8285009AC7B1 /* Errno.swift */; };
+		03DA2D711F1A8285009AC7B1 /* Files.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D5E1F1A8285009AC7B1 /* Files.swift */; };
+		03DA2D721F1A8285009AC7B1 /* HttpParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D5F1F1A8285009AC7B1 /* HttpParser.swift */; };
+		03DA2D731F1A8285009AC7B1 /* HttpRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D601F1A8285009AC7B1 /* HttpRequest.swift */; };
+		03DA2D741F1A8285009AC7B1 /* HttpResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D611F1A8285009AC7B1 /* HttpResponse.swift */; };
+		03DA2D751F1A8285009AC7B1 /* HttpRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D621F1A8285009AC7B1 /* HttpRouter.swift */; };
+		03DA2D761F1A8285009AC7B1 /* HttpServer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D631F1A8285009AC7B1 /* HttpServer.swift */; };
+		03DA2D771F1A8285009AC7B1 /* HttpServerIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D641F1A8285009AC7B1 /* HttpServerIO.swift */; };
+		03DA2D781F1A8285009AC7B1 /* Process.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D651F1A8285009AC7B1 /* Process.swift */; };
+		03DA2D791F1A8285009AC7B1 /* Scopes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D661F1A8285009AC7B1 /* Scopes.swift */; };
+		03DA2D7A1F1A8285009AC7B1 /* Socket+File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D671F1A8285009AC7B1 /* Socket+File.swift */; };
+		03DA2D7B1F1A8285009AC7B1 /* Socket+Server.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D681F1A8285009AC7B1 /* Socket+Server.swift */; };
+		03DA2D7C1F1A8285009AC7B1 /* Socket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D691F1A8285009AC7B1 /* Socket.swift */; };
+		03DA2D7D1F1A8285009AC7B1 /* String+BASE64.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D6A1F1A8285009AC7B1 /* String+BASE64.swift */; };
+		03DA2D7E1F1A8285009AC7B1 /* String+File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D6B1F1A8285009AC7B1 /* String+File.swift */; };
+		03DA2D7F1F1A8285009AC7B1 /* String+Misc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D6C1F1A8285009AC7B1 /* String+Misc.swift */; };
+		03DA2D801F1A8285009AC7B1 /* String+SHA1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D6D1F1A8285009AC7B1 /* String+SHA1.swift */; };
+		03DA2D811F1A8285009AC7B1 /* WebSockets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03DA2D6E1F1A8285009AC7B1 /* WebSockets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +65,26 @@
 		03DA2CF61F1A7BCD009AC7B1 /* P5SandboxUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = P5SandboxUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		03DA2CFA1F1A7BCD009AC7B1 /* P5SandboxUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P5SandboxUITests.swift; sourceTree = "<group>"; };
 		03DA2CFC1F1A7BCD009AC7B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		03DA2D581F1A81AE009AC7B1 /* html */ = {isa = PBXFileReference; lastKnownFileType = folder; path = html; sourceTree = SOURCE_ROOT; };
+		03DA2D5C1F1A8285009AC7B1 /* DemoServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DemoServer.swift; sourceTree = "<group>"; };
+		03DA2D5D1F1A8285009AC7B1 /* Errno.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Errno.swift; sourceTree = "<group>"; };
+		03DA2D5E1F1A8285009AC7B1 /* Files.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Files.swift; sourceTree = "<group>"; };
+		03DA2D5F1F1A8285009AC7B1 /* HttpParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpParser.swift; sourceTree = "<group>"; };
+		03DA2D601F1A8285009AC7B1 /* HttpRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpRequest.swift; sourceTree = "<group>"; };
+		03DA2D611F1A8285009AC7B1 /* HttpResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpResponse.swift; sourceTree = "<group>"; };
+		03DA2D621F1A8285009AC7B1 /* HttpRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpRouter.swift; sourceTree = "<group>"; };
+		03DA2D631F1A8285009AC7B1 /* HttpServer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpServer.swift; sourceTree = "<group>"; };
+		03DA2D641F1A8285009AC7B1 /* HttpServerIO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HttpServerIO.swift; sourceTree = "<group>"; };
+		03DA2D651F1A8285009AC7B1 /* Process.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Process.swift; sourceTree = "<group>"; };
+		03DA2D661F1A8285009AC7B1 /* Scopes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scopes.swift; sourceTree = "<group>"; };
+		03DA2D671F1A8285009AC7B1 /* Socket+File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Socket+File.swift"; sourceTree = "<group>"; };
+		03DA2D681F1A8285009AC7B1 /* Socket+Server.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Socket+Server.swift"; sourceTree = "<group>"; };
+		03DA2D691F1A8285009AC7B1 /* Socket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Socket.swift; sourceTree = "<group>"; };
+		03DA2D6A1F1A8285009AC7B1 /* String+BASE64.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+BASE64.swift"; sourceTree = "<group>"; };
+		03DA2D6B1F1A8285009AC7B1 /* String+File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+File.swift"; sourceTree = "<group>"; };
+		03DA2D6C1F1A8285009AC7B1 /* String+Misc.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Misc.swift"; sourceTree = "<group>"; };
+		03DA2D6D1F1A8285009AC7B1 /* String+SHA1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+SHA1.swift"; sourceTree = "<group>"; };
+		03DA2D6E1F1A8285009AC7B1 /* WebSockets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebSockets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +115,7 @@
 		03DA2CD11F1A7BCC009AC7B1 = {
 			isa = PBXGroup;
 			children = (
+				03DA2D5A1F1A8279009AC7B1 /* 3rd party */,
 				03DA2CDC1F1A7BCD009AC7B1 /* P5Sandbox */,
 				03DA2CEE1F1A7BCD009AC7B1 /* P5SandboxTests */,
 				03DA2CF91F1A7BCD009AC7B1 /* P5SandboxUITests */,
@@ -95,6 +136,7 @@
 		03DA2CDC1F1A7BCD009AC7B1 /* P5Sandbox */ = {
 			isa = PBXGroup;
 			children = (
+				03DA2D581F1A81AE009AC7B1 /* html */,
 				03DA2CDD1F1A7BCD009AC7B1 /* AppDelegate.swift */,
 				03DA2CDF1F1A7BCD009AC7B1 /* ViewController.swift */,
 				03DA2CE11F1A7BCD009AC7B1 /* Assets.xcassets */,
@@ -120,6 +162,41 @@
 				03DA2CFC1F1A7BCD009AC7B1 /* Info.plist */,
 			);
 			path = P5SandboxUITests;
+			sourceTree = "<group>";
+		};
+		03DA2D5A1F1A8279009AC7B1 /* 3rd party */ = {
+			isa = PBXGroup;
+			children = (
+				03DA2D5B1F1A8285009AC7B1 /* swifter */,
+			);
+			name = "3rd party";
+			sourceTree = "<group>";
+		};
+		03DA2D5B1F1A8285009AC7B1 /* swifter */ = {
+			isa = PBXGroup;
+			children = (
+				03DA2D5C1F1A8285009AC7B1 /* DemoServer.swift */,
+				03DA2D5D1F1A8285009AC7B1 /* Errno.swift */,
+				03DA2D5E1F1A8285009AC7B1 /* Files.swift */,
+				03DA2D5F1F1A8285009AC7B1 /* HttpParser.swift */,
+				03DA2D601F1A8285009AC7B1 /* HttpRequest.swift */,
+				03DA2D611F1A8285009AC7B1 /* HttpResponse.swift */,
+				03DA2D621F1A8285009AC7B1 /* HttpRouter.swift */,
+				03DA2D631F1A8285009AC7B1 /* HttpServer.swift */,
+				03DA2D641F1A8285009AC7B1 /* HttpServerIO.swift */,
+				03DA2D651F1A8285009AC7B1 /* Process.swift */,
+				03DA2D661F1A8285009AC7B1 /* Scopes.swift */,
+				03DA2D671F1A8285009AC7B1 /* Socket+File.swift */,
+				03DA2D681F1A8285009AC7B1 /* Socket+Server.swift */,
+				03DA2D691F1A8285009AC7B1 /* Socket.swift */,
+				03DA2D6A1F1A8285009AC7B1 /* String+BASE64.swift */,
+				03DA2D6B1F1A8285009AC7B1 /* String+File.swift */,
+				03DA2D6C1F1A8285009AC7B1 /* String+Misc.swift */,
+				03DA2D6D1F1A8285009AC7B1 /* String+SHA1.swift */,
+				03DA2D6E1F1A8285009AC7B1 /* WebSockets.swift */,
+			);
+			name = swifter;
+			path = submodules/swifter/Sources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,6 +307,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				03DA2CE21F1A7BCD009AC7B1 /* Assets.xcassets in Resources */,
+				03DA2D591F1A81AE009AC7B1 /* html in Resources */,
 				03DA2CE51F1A7BCD009AC7B1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -255,8 +333,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				03DA2D7C1F1A8285009AC7B1 /* Socket.swift in Sources */,
+				03DA2D7A1F1A8285009AC7B1 /* Socket+File.swift in Sources */,
+				03DA2D701F1A8285009AC7B1 /* Errno.swift in Sources */,
+				03DA2D801F1A8285009AC7B1 /* String+SHA1.swift in Sources */,
 				03DA2CE01F1A7BCD009AC7B1 /* ViewController.swift in Sources */,
+				03DA2D761F1A8285009AC7B1 /* HttpServer.swift in Sources */,
+				03DA2D711F1A8285009AC7B1 /* Files.swift in Sources */,
+				03DA2D6F1F1A8285009AC7B1 /* DemoServer.swift in Sources */,
+				03DA2D741F1A8285009AC7B1 /* HttpResponse.swift in Sources */,
+				03DA2D721F1A8285009AC7B1 /* HttpParser.swift in Sources */,
+				03DA2D811F1A8285009AC7B1 /* WebSockets.swift in Sources */,
+				03DA2D7B1F1A8285009AC7B1 /* Socket+Server.swift in Sources */,
+				03DA2D731F1A8285009AC7B1 /* HttpRequest.swift in Sources */,
+				03DA2D771F1A8285009AC7B1 /* HttpServerIO.swift in Sources */,
+				03DA2D7E1F1A8285009AC7B1 /* String+File.swift in Sources */,
 				03DA2CDE1F1A7BCD009AC7B1 /* AppDelegate.swift in Sources */,
+				03DA2D751F1A8285009AC7B1 /* HttpRouter.swift in Sources */,
+				03DA2D781F1A8285009AC7B1 /* Process.swift in Sources */,
+				03DA2D7D1F1A8285009AC7B1 /* String+BASE64.swift in Sources */,
+				03DA2D791F1A8285009AC7B1 /* Scopes.swift in Sources */,
+				03DA2D7F1F1A8285009AC7B1 /* String+Misc.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -402,6 +499,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = P5Sandbox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = ru.mksh.P5Sandbox;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -415,6 +513,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = P5Sandbox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_BUNDLE_IDENTIFIER = ru.mksh.P5Sandbox;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
