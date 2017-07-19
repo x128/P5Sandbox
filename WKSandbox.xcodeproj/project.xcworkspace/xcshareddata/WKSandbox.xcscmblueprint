@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9CF127E3D3DCD1E1CDC663874FF5FC0CB722BD47",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71CFC0DE1DEFC877B0C5B9F98B971EBA2921D608" : 9223372036854775807,
+    "9CF127E3D3DCD1E1CDC663874FF5FC0CB722BD47" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "58CD4F3A-4241-45A8-81E0-7ABD67B915FA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71CFC0DE1DEFC877B0C5B9F98B971EBA2921D608" : "P5Sandbox\/submodules\/CocoaHTTPServer\/",
+    "9CF127E3D3DCD1E1CDC663874FF5FC0CB722BD47" : "P5Sandbox\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WKSandbox",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WKSandbox.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robbiehanson\/CocoaHTTPServer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71CFC0DE1DEFC877B0C5B9F98B971EBA2921D608"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/x128\/P5Sandbox.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CF127E3D3DCD1E1CDC663874FF5FC0CB722BD47"
+    }
+  ]
+}

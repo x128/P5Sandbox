@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "03DA2CD91F1A7BCC009AC7B1"
-               BuildableName = "P5Sandbox.app"
-               BlueprintName = "P5Sandbox"
-               ReferencedContainer = "container:P5Sandbox.xcodeproj">
+               BlueprintIdentifier = "043730311F1F355100DC74F4"
+               BuildableName = "WKSandbox.app"
+               BlueprintName = "WKSandbox"
+               ReferencedContainer = "container:WKSandbox.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,34 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "03DA2CEA1F1A7BCD009AC7B1"
-               BuildableName = "P5SandboxTests.xctest"
-               BlueprintName = "P5SandboxTests"
-               ReferencedContainer = "container:P5Sandbox.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "03DA2CF51F1A7BCD009AC7B1"
-               BuildableName = "P5SandboxUITests.xctest"
-               BlueprintName = "P5SandboxUITests"
-               ReferencedContainer = "container:P5Sandbox.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "03DA2CD91F1A7BCC009AC7B1"
-            BuildableName = "P5Sandbox.app"
-            BlueprintName = "P5Sandbox"
-            ReferencedContainer = "container:P5Sandbox.xcodeproj">
+            BlueprintIdentifier = "043730311F1F355100DC74F4"
+            BuildableName = "WKSandbox.app"
+            BlueprintName = "WKSandbox"
+            ReferencedContainer = "container:WKSandbox.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "03DA2CD91F1A7BCC009AC7B1"
-            BuildableName = "P5Sandbox.app"
-            BlueprintName = "P5Sandbox"
-            ReferencedContainer = "container:P5Sandbox.xcodeproj">
+            BlueprintIdentifier = "043730311F1F355100DC74F4"
+            BuildableName = "WKSandbox.app"
+            BlueprintName = "WKSandbox"
+            ReferencedContainer = "container:WKSandbox.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "03DA2CD91F1A7BCC009AC7B1"
-            BuildableName = "P5Sandbox.app"
-            BlueprintName = "P5Sandbox"
-            ReferencedContainer = "container:P5Sandbox.xcodeproj">
+            BlueprintIdentifier = "043730311F1F355100DC74F4"
+            BuildableName = "WKSandbox.app"
+            BlueprintName = "WKSandbox"
+            ReferencedContainer = "container:WKSandbox.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>P5Sandbox.xcscheme</key>
+		<key>WKSandbox.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>03DA2CD91F1A7BCC009AC7B1</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>03DA2CEA1F1A7BCD009AC7B1</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>03DA2CF51F1A7BCD009AC7B1</key>
+		<key>043730311F1F355100DC74F4</key>
 		<dict>
 			<key>primary</key>
 			<true/>

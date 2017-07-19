@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:P5Sandbox.xcodeproj">
+      location = "self:WKSandbox.xcodeproj">
    </FileRef>
 </Workspace>
