@@ -19122,6 +19122,7 @@ p5.Image.prototype.resize = function(width, height){
   var tempCanvas = document.createElement('canvas');
   tempCanvas.width = width;
   tempCanvas.height = height;
+if (this.canvas.height > 0 && this.canvas.width > 0)
   tempCanvas.getContext('2d').drawImage(this.canvas,
     0, 0, this.canvas.width, this.canvas.height,
     0, 0, tempCanvas.width, tempCanvas.height
